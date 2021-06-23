@@ -1,7 +1,7 @@
 # pthreadcpy
 No linux use:<br>
 `git clone https://github.com/CarllosOutside/pthreadcpy.git` <br>
-Na pasta gerada pthreadcpy/ execute pelo terminal o comando: <br>
+Dentro da pasta gerada pthreadcpy/ execute pelo terminal o comando: <br>
 `make` <br>
 Na mesma pasta, teste o programa com: <br>
 `./t_copy fonte destino` <br>
